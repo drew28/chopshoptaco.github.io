@@ -1,0 +1,22 @@
+{
+  "name": "chopshoptaco.github.io",
+  "version": "1.0.0",
+  "description": "Site for chopshoptaco",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drew28/chopshoptaco.github.io.git"
+  },
+  "keywords": [
+    "taco"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drew28/chopshoptaco.github.io/issues"
+  },
+  "homepage": "https://github.com/drew28/chopshoptaco.github.io#readme"
+}
